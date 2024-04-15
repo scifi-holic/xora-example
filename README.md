@@ -1,7 +1,6 @@
 # Xora zkOracle
 
 
-
 ## How to build
 
 ```sh
